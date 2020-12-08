@@ -4,4 +4,17 @@
 
 ### If you are interested in taking a look at my thought process in its rawest form, you can view each of my python notebook files seperated by 3 parts (Web Scraping, Data Cleaning, EDA)
 
-### Here were some of my findings
+### Here were some of my findings:
+
+![picture](img/Top10BestSellingGames.png)
+![picture](img/Top10BestSellingGamesNA.png)
+![picture](img/Top10BestSellingGamesEU.png)
+![picture](img/Top10BestSellingGamesJP.png)
+![picture](img/Top10BestSellingGamesOther.png)
+![picture](img/TotalSalesOverTime.png)
+![picture](img/TotalSalesByConsole.png)
+![picture](img/TotalSalesByConsoleByCG.png)
+![picture](img/TotalSalesByGenre.png)
+![picture](img/TotalSalesByGenreByCG.png)
+![picture](img/TotalSalesByPublisher20.png)
+![picture](img/TotalSalesByPublisherByCG.png)
