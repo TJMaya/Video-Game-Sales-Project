@@ -4,7 +4,11 @@
 
 ### If you are interested in taking a look at my thought process in its rawest form, you can view each of my python notebook files seperated by 3 parts (Web Scraping, Data Cleaning, EDA)
 
-### Here were some of my findings:
+### Here were some of my findings
+### First let's take a look at a snapshot of the structure of the finalized data frame:
+![picture](img/VGSalesDataFrame.png)
+#### The dataframe consisted of 17,862 entries after cleaning.
+### Before committing to the EDA, I decided to try and get a better idea of the data by creating frequency distribution tables of genres, consoles, publishers, release years, and titles
 
 ![picture](img/Top10BestSellingGames.png)
 ![picture](img/Top10BestSellingGamesNA.png)
